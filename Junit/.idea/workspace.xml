@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6b88989-3769-4577-9b66-c7123baafad6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2t5Gr95woJ1tLvc9Gh6Q2qgvlUc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.BankAccountTest.testWithdraw_InsufficientFunds.executor": "Run",
+    "JUnit.BankAccountTest.testWithdraw_NegativeAmount.executor": "Run",
+    "JUnit.CalculatorClassTest.testAddition.executor": "Run",
+    "JUnit.CalculatorClassTest.testDivision.executor": "Run",
+    "JUnit.CalculatorClassTest.testDivisionByZero.executor": "Run",
+    "JUnit.CalculatorClassTest.testMultiplication.executor": "Run",
+    "JUnit.CalculatorClassTest.testSubtraction.executor": "Run",
+    "JUnit.CalculatorTest.testAddition.executor": "Run",
+    "JUnit.DatabaseConnectionTest.testConnectionIsClosedAfterEachTest.executor": "Run",
+    "JUnit.DatabaseConnectionTest.testConnectionIsEstablished.executor": "Run",
+    "JUnit.FileProcessorTest.testReadFromNonExistentFile_ShouldThrowException.executor": "Run",
+    "JUnit.FileProcessorTest.testWriteAndReadFromFile.executor": "Run",
+    "JUnit.ListManagerTest.testAddElement.executor": "Run",
+    "JUnit.ListManagerTest.testGetSize.executor": "Run",
+    "JUnit.ListManagerTest.testNullListOperations.executor": "Run",
+    "JUnit.ListManagerTest.testRemoveElement.executor": "Run",
+    "JUnit.ListManagerTest.testRemoveElement_NotPresent.executor": "Run",
+    "JUnit.MathUtilsTest.testDivisionByZero.executor": "Run",
+    "JUnit.MathUtilsTest.testValidDivision.executor": "Run",
+    "JUnit.PasswordValidatorTest.testPassword_NoUppercase.executor": "Run",
+    "JUnit.PasswordValidatorTest.testPassword_Null.executor": "Run",
+    "JUnit.PasswordValidatorTest.testPassword_TooShort.executor": "Run",
+    "JUnit.PasswordValidatorTest.testValidPassword.executor": "Run",
+    "JUnit.PerformanceTesterTest.testLongRunningTask_ShouldFail.executor": "Run",
+    "JUnit.StringUtilsTest.testIsPalindrome.executor": "Run",
+    "JUnit.StringUtilsTest.testReverse.executor": "Run",
+    "JUnit.StringUtilsTest.testToUpperCase.executor": "Run",
+    "JUnit.TemperatureConverterTest.testCelsiusToFahrenheit.executor": "Run",
+    "JUnit.TemperatureConverterTest.testFahrenheitToCelsius.executor": "Run",
+    "JUnit.UserRegistrationTest.testEmptyUsername.executor": "Run",
+    "JUnit.UserRegistrationTest.testInvalidEmail.executor": "Run",
+    "JUnit.UserRegistrationTest.testNullValues.executor": "Run",
+    "JUnit.UserRegistrationTest.testShortPassword.executor": "Run",
+    "JUnit.UserRegistrationTest.testValidUserRegistration.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "Day5-Regex__JUnit",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.parametrizedtest" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.userregistration" />
+      <recent name="org.example.dateformatter" />
+      <recent name="org.example.temperatureconverter" />
+      <recent name="org.example.passwordstrengthvalidator" />
+      <recent name="org.example.bankingtransactions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserRegistrationTest.testNullValues">
+    <configuration name="UserRegistrationTest.testEmptyUsername" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.userregistration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.userregistration" />
+      <option name="MAIN_CLASS_NAME" value="org.example.userregistration.UserRegistrationTest" />
+      <option name="METHOD_NAME" value="testEmptyUsername" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistrationTest.testInvalidEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.userregistration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.userregistration" />
+      <option name="MAIN_CLASS_NAME" value="org.example.userregistration.UserRegistrationTest" />
+      <option name="METHOD_NAME" value="testInvalidEmail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistrationTest.testNullValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.userregistration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.userregistration" />
+      <option name="MAIN_CLASS_NAME" value="org.example.userregistration.UserRegistrationTest" />
+      <option name="METHOD_NAME" value="testNullValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistrationTest.testShortPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.userregistration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.userregistration" />
+      <option name="MAIN_CLASS_NAME" value="org.example.userregistration.UserRegistrationTest" />
+      <option name="METHOD_NAME" value="testShortPassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistrationTest.testValidUserRegistration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.userregistration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.userregistration" />
+      <option name="MAIN_CLASS_NAME" value="org.example.userregistration.UserRegistrationTest" />
+      <option name="METHOD_NAME" value="testValidUserRegistration" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserRegistrationTest.testNullValues" />
+        <item itemvalue="JUnit.UserRegistrationTest.testShortPassword" />
+        <item itemvalue="JUnit.UserRegistrationTest.testInvalidEmail" />
+        <item itemvalue="JUnit.UserRegistrationTest.testEmptyUsername" />
+        <item itemvalue="JUnit.UserRegistrationTest.testValidUserRegistration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6b88989-3769-4577-9b66-c7123baafad6" name="Changes" comment="" />
+      <created>1739634722036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739634722036</updated>
+    </task>
+    <servers />
+  </component>
+</project>
